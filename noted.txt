@@ -22,17 +22,10 @@ Padding & margin(jarak) :
 - padding ukuran dari pinggir luar konten hingga ke dalam konten
 - margin ukuran dari pinggir konten ke konten lain.
 
-
-
-
-
-
-
-
 <h1 style="background-color: yellow">H</h1>
-        <h1>Hello Batch 46</h1>
+        <h1>Hello</h1>
 
-        <p>Hello Batch 46</p><p>Hello Batch 47</p>
+        <p>Hello World</p>
         <span>
             Farhan
         </span>
